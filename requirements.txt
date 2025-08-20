@@ -1,0 +1,9 @@
+Flask==2.3.3
+requests==2.31.0
+
+# SECURITY ISSUE: Hardcoded credentials in comments
+# Database password: password123
+# Admin API key: admin_key_abc123xyz789
+# Production secret: prod_secret_key_987654321
+# Backup server password: BackupPass123!
+# Email account password: EmailPass2023!
